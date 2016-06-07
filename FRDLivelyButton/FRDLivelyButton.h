@@ -38,6 +38,8 @@ typedef enum {
 extern NSString *const kFRDLivelyButtonHighlightScale;
 // the button CGPaths stroke width, default 1.0f pixel
 extern NSString *const kFRDLivelyButtonLineWidth;
+//padding from button edge to icon
+extern NSString *const kFRDLivelyButtonIconPadding;
 // the button CGPaths stroke color, default is black
 extern NSString *const kFRDLivelyButtonColor;
 // the button CGPaths stroke color when highlighted, default is light gray
